@@ -1,7 +1,7 @@
 <p style="color:red; font-size: 20px;">*Personal Notes:
 This repository is to archive my project work related to my certificate in Python for Data Science and Machine Learning</p>
 
-<a href="https://www.udemy.com/certificate/UC-574dff5b-fb1b-4dd0-a598-61ff401f5150/" target="_blank"  style="color: yellow; text-decoration: underline;">Link to my certificate here</a>
+<a href="https://www.udemy.com/certificate/UC-574dff5b-fb1b-4dd0-a598-61ff401f5150/" target="_blank" rel="noopener noreferrer" style="color: yellow; text-decoration: underline;">Link to my certificate here</a>
 
 ___
 
@@ -11,7 +11,7 @@ ___
 
 ### - Created by Jose Portilla for Udemy
 
-<a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" target="_blank" style="color: yellow; text-decoration: underline;">Link to course</a>
+<a href="https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/" target="_blank" rel="noopener noreferrer" style="color: yellow; text-decoration: underline;">Link to course</a>
 
 #### Course Description
 
